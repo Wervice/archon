@@ -1,6 +1,6 @@
 # Archon Backup Utility
 ###### Keeps your data safe.
-Archon is an open source and easy-to-use python backup utility for Linux and Windows users. Archon supports compressed backups (`xztar`) and encryption using AES. You can also backup your files to a FTP server with and without TLS. Archon is licensed under GNUv3.
+Archon is an open source and easy-to-use python backup utility for Linux. Archon supports compressed backups (`xztar`) and encryption using AES. You can also backup your files to a FTP server with and without TLS. Archon is licensed under GNUv3.
 ## How to use?
 1. Open the folder where Archon is stored
 2. Enter `python3 __main__.py <command>`
