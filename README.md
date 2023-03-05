@@ -27,3 +27,5 @@ This is an example history entry:
 `termcolor`: MIT License licensed python module for colored terminal outputs. You find the license text under `legal/termcolor.txt`  
 
 `pyAesCrypt`: Apache License 2.0 licensed python module for Aes encryption. You find the license text under `legal/pyaescrypt.txt`
+## Used files
+Every Icon in Archon's GUI is by [Icons8](https://icons8.com).
